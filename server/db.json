@@ -1,0 +1,67 @@
+{
+  "phones": [
+    { "id": 1, "img": "http://localhost:3001/assets/images/HUAWEIMate20ProLYA-L29.jpg", "brand": "Huawei", "title": "HUAWEI Mate 20 Pro LYA-L29" , "description": "(128GB, Dual-SIM, Android, 6.39\" inch) (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone (Twilight)", "color": "black", "price": 1160.00, "detailId":1 },
+    { "id": 2, "img": "http://localhost:3001/assets/images/HUAWEI_P20_Black.jpg", "brand": "Huawei", "title": "HUAWEI P20 Black" , "description": "HUAWEI P20/Black HUAWEI P20/Black/51092NAT (Japan Domestic Genuine Products)", "color": "black", "price": 630.00, "detailId":2 },
+    { "id": 3, "img": "http://localhost:3001/assets/images/Pixel3XL.jpg", "brand": "Google Phone", "title": "Pixel 3 XL by Google Phone" , "description": "Pixel 3 XL by Google Phone G013C 64GB, 6.3\" inch 4G Factory Unlocked - EU Version (Clearly White)", "color": "white", "price": 1199.00, "detailId":3 },
+    { "id": 4, "img": "http://localhost:3001/assets/images/Blackberry_Key2_128GB.jpg", "brand": "Blackbarr", "title": "Blackberry Key2 128GB" , "description": "Blackberry Key2 128GB (Dual Sim BBF100-6) Unlocked GSM - International Version (Black Edition, English UK QWERTY)", "color": "black", "price": 1049.00, "detailId":4 },
+    { "id": 5, "img": "http://localhost:3001/assets/images/Samsung_Galaxy_A9.jpg", "brand": "Samsung", "title": "Samsung Galaxy A9 " , "description": "Samsung Galaxy A9 (2018) Single-SIM SM-A920F 128GB (GSM Only, No CDMA) Factory Unlocked 4G Smartphone - International Version (Bubblegum Pink)", "color": "pink", "price": 679.00, "detailId":5 },
+    { "id": 6, "img": "http://localhost:3001/assets/images/Nokia_E65-1.jpg", "brand": "Nokia", "title": "Nokia E65-1" , "description": "Nokia E65-1 50MB Factory Unlocked Original Collectors Item 3G Cellphone (Red) - International Version", "color": "red", "price": 759.00, "detailId":6 }
+  ],
+  "details": [{
+      "id":1,
+      "phoneId":1,
+      "characteristics":[
+        "For USA Buyers : This Smartphone is not compatible/will not work with any CDMA Networks including : VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or 4G/LTE compatibility check before you purchase.",
+        "Dual-SIM, Network Compatibility : SIM CARD 1 [ 2G GSM 850 / 900 / 1800 / 1900 and/or 3G WCDMA 800(B6) / 800(B19) / 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G LTE FDD 700(B12) / 700(B17) / 700(B28) / 800(B20) / 850(B5) / 850(B18) / 850(B19) / 850(B26) / B6 / B9 / 900(B8) / 1500(B32) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) | TD-LTE : 1900(B39) / 2100(B34) / 2300(B40) / 2600(B38) ] and SIM CARD 2 [ 2G GSM 850 / 900 / 1800 / 1900 ]",
+        "6.39 inches, AMOLED capacitive touchscreen, 16M colors, 1440 x 3120 pixels, , Corning Gorilla Glass",
+        "128GB Storage, 6GB RAM, Up to 256GB Card slotNM (Nano Memory)",
+        "Android 9.0 (Pie), HiSilicon Kirin 980 (7 nm), Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55), Mali-G76 MP10"
+      ]
+    }, {
+      "id":2,
+      "phoneId":2,
+      "characteristics":[
+        "System unit size (vertical X side X thickness):Approximately 173mm X approximately 59mm X approximately 9.3mm Storage device:4GB Accessories:USB-C high res Earphone, USB-Cto3, 5mm Headphones Jack host adapter, protection Case, AC host adapter, USBType-C cable, quick start guide The OS:Android8.0 CPU:HUAWEI Kirin 970 WiFi standard:802.11 a/b/g/n/ac conformity (2.4GHz/5GHz) Bluetooth:Bluetooth 4.2 with BLE (aptX/aptX HD/LDAC/HWA correspondence)",
+        "Network and frequency band:FDD LTE:B1/2/3/4/5/6/7/8/9/12/17/18/19/20/26/28/32 WCDMA: B1/2/4/5/6/8/19 Transmission rate:Non-disclosure VDT:Approximately 5.8 inches Sensor:Fingerprint authentication / electron compasses / optical sensor / acceleration sensor / proximity sensor / gyroscope Interface:USB 3.1 Gen1 Type-C dezaringu:Correspondence *jujikan:Non-disclosure Battery:3400mAh Storage:128GB"
+      ]
+    }, {
+      "id":3,
+      "phoneId":3,
+      "characteristics":[
+        "6.3\" fullscreen display, QHD+ OLED at 523ppi, 18.5:9, Corning Gorilla Glass 5",
+        "Network Compatibility : 2G GSM 850 / 900 / 1800 / 1900 and/or 3G UMTS/HSPA+/HSDPA 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G LTE 600(B71) / 700(B12) / 700c(B13) / 700(B17) / 700(B28) / 700(B29) / 800(B20) / 850(B5) / 850(B18) / 850(B19) / 850(B26) / 1700|2100(B4) / 1700/2100(B66) / 900(B8) / 1500(B32) / 1800(B3) / 1900(B2) / 1900(B25) / 2100(B1) / 2300(B30) / 2600(B7) | TD-LTE : 1900(B39) / 2300(B40) / 2500(B41) / 2600(B38) / 3500(B42) / 5200(B46)",
+        "64GB storage | 4GB LPDDR4x RAM Memory",
+        "Qualcomm Snapdragon 845, 2.5 Ghz + 1.6 Ghz, 64-Bit Octa-Core, Adreno 630, Pixel Visual Core, Titan M security module",
+        "Rear camera : 12.2MP dual-pixel, 1.4 μm, Autofocus + dual pixel phase detection | Dual front cameras : 8MP wide-angle and telephoto cameras"
+      ]
+    }, {
+      "id":4,
+      "phoneId":4,
+      "characteristics":[
+        "FDD-LTE 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 19, 20, 26, 28, 32 (2100/1900/1800/1700/850/2600/900/700/700/700/850/800/850/700/1500) TD-LTE 38, 39, 40, 41 (2600/1900/2300/2500)",
+        "Dual Sim, 128GB, BBB100-6 Model, PRD-63828-007, Regional UK English Qwerty",
+        "Android 8.1 (Oreo), Qualcomm SDM660 Snapdragon 660, Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "Primary Camera Dual: 12MP (f/1.8, 1/2.3\", 1.28µm, dual-pixel PDAF) + 12MP (f/2.6, 1.0µm, PDAF), 2160p@30fps, 1080p@30fps, Secondary Camera 8MP (f/2.0, 1.12µm), 1080p"
+      ]
+    }, {
+      "id":5,
+      "phoneId":5,
+      "characteristics":[
+        "For USA Buyers : This Smartphone is not compatible/will not work with any CDMA Networks including : VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or 4G/LTE compatibility check before you purchase.",
+        "Network Compatibility : 2G GSM 850 / 900 / 1800 / 1900 and/or 3G 850(B5) / 900(B8) / 1900(B2) / 2100(B1) and/or 4G LTE 800(B20) / 850(B5) / 900(B8) / 1800(B3) / 2100(B1) / 2600(B7) : TDD LTE 2300(B40) / 2600(B38)",
+        "128GB Storage, 6GB RAM, Up to 512GB microSD Card slot",
+        "Android 8.0 (Oreo), Qualcomm SDM660 Snapdragon 660 (14 nm), Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260), Adreno 512 | Primary Four Camera : 24 MP, f/1.7, PDAF | 8 MP, f/2.4, 12mm (ultrawide) | 10 MP f/2.4, (telephoto), 2x optical zoom | 5 MP, f/2.2, depth sensor | 2160p@30fps, 1080p@30fps Video, Front Camera : 24 MP, f/2.0, HDR, 1080p@30fps"
+      ]
+    }, {
+      "id":6,
+      "phoneId":6,
+      "characteristics":[
+        "2.2 inches, TFT, 16M colors, 240 x 320 pixels",
+        "Network Compatibility : 2G GSM 850 / 900 / 1800 / 1900 and/or 3G 2100(B1)",
+        "50MB Storage, 64MB RAM, Up to 2GB microSD Card slot",
+        "Symbian OS 9.1, Series 60 UI, 220 MHz Dual ARM 9",
+        "2MP Primary Camera, Removable Li-Ion 950 mAh battery (BL-5F)"
+      ]
+    }
+  ]
+}

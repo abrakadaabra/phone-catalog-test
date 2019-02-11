@@ -1,0 +1,1 @@
+export const formatMoney = (amount = 0, currency = '$') => `${currency}${amount.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}`;
